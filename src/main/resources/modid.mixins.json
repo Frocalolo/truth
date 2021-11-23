@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.frocalolo.truth.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "TruthMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

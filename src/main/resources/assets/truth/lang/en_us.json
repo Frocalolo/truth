@@ -1,0 +1,16 @@
+{
+  "item.truth.ancient_rose":"Ancient Rose",
+  "item.truth.flower_of_truth":"Flower Of Truth",
+  "item.truth.shadow_shard":"Shadow Shard",
+  "item.truth.shadow_assassin_helmet":"Shadow Assassin Helmet",
+  "item.truth.shadow_assassin_chestplate":"Shadow Assassin Chestplate",
+  "item.truth.shadow_assassin_leggings":"Shadow Assassin Leggings",
+  "item.truth.shadow_assassin_boots":"Shadow Assassin Boots",
+  "item.truth.wigglear_spawn_egg": "Wigglear Spawn Egg",
+  "item.truth.wiggleara_spawn_egg": "Wiggleara Spawn Egg",
+  "entity.truth.wigglear": "Wigglear",
+  "entity.truth.wiggleara": "Wiggleara",
+
+
+  "itemGroup.truth.truth": "Truth"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "truth:shadow_shard"
+    }
+  },
+  "result": {
+    "item": "truth:shadow_assassin_helmet"
+  }
+}
